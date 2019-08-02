@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\david\desktop\dxproject\dxproject\dxproject\main.cpp(627): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\david\desktop\dxproject\dxproject\dxproject\main.cpp(826): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\dxproject\dxproject\dxproject\main.cpp(867): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\dxproject\dxproject\dxproject\main.cpp(909): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\dxproject\dxproject\dxproject\main.cpp(951): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\dxproject\dxproject\dxproject\main.cpp(993): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\dxproject\dxproject\dxproject\main.cpp(1463): warning C4007: 'WinMain': must be '__stdcall'
+DirectXTK.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(pch.obj)' or at 'C:\Users\David\Desktop\DXProject\DXProject\Debug\DirectXTK.pdb'; linking object as if no debug info
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DirectXTK.lib(WICTextureLoader.obj)' or at 'C:\Users\David\Desktop\DXProject\DXProject\Debug\DirectXTK.pdb'; linking object as if no debug info
+  DXProject.vcxproj -> C:\Users\David\Desktop\DXProject\DXProject\Debug\DXProject.exe
